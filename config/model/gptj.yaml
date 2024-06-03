@@ -1,0 +1,6 @@
+name_or_path: EleutherAI/gpt-j-6b
+tokenizer_name_or_path: null
+block_name: GPTJBlock
+
+policy_dtype: float32
+fsdp_policy_mp: null
